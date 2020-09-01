@@ -1,0 +1,5 @@
+{
+    "subscription_id": "{auzre subscription id}",
+    "resource_group": "{azure resource group name}",
+    "workspace_name": "{azure ML workspace name}"    
+}
